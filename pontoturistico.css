@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(24, 8, 24, 0.795);
+}
+
+body {
+  height: 100%;
+  display: grid;
+}
+header {
+  display: flex;
+  column-gap: 200px;
+  font-size: x-large;
+  color: indigo;
+}
+main {
+  background-color: rgb(222, 222, 185);
+}
+
+h1 {
+  font-size: 2.4rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-align: center;
+  font-weight: bold;
+}
